@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Education
 ---
-- '2018. 03 ~' : SKKU Materials Science & Engineering / Software
+- `2023.03 ~ 2023.08` : SKKU Materials Science & Engineering / Software
 
 ### Algorithm
 ---
