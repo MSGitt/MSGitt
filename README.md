@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Interest
+---
+LLM
+
 ### Education
 ---
 - `2023.03 ~ 2023.08` : SKKU Materials Science & Engineering / Software
