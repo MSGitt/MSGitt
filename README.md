@@ -22,7 +22,7 @@ LLM
 
 ### Education
 ---
-- `2023.03 ~ 2023.08` : SKKU Materials Science & Engineering / Software
+- `2018.03 ~ ` : SKKU Materials Science & Engineering / Software
 
 ### Algorithm
 ---
