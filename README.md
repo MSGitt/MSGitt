@@ -23,8 +23,3 @@ LLM
 ### Education
 ---
 - `2018.03 ~ ` : SKKU Materials Science & Engineering / Software
-
-### Algorithm
----
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hdcms7923)](https://solved.ac/hdcms7923/)
