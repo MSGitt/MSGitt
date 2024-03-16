@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ### Interest
 ---
+- Model Optimization
+- Large Language Model
+- Parameter Efficient Fine-Tuning
 
 ### Education
 ---
