@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 ### Education
 ---
-- `2018.03 ~ ` : SKKU Materials Science & Engineering / Software
+- `2018.03 ~ 2024.08` : SKKU Materials Science & Engineering / Software
