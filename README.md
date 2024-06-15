@@ -1,6 +1,10 @@
 ### Hi there 👋
 <br>
 
+### Profile
+
+- `Linkedin` : https://www.linkedin.com/in/민수-최-b00b1a287/
+
 <!--
 **MSGitt/MSGitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
